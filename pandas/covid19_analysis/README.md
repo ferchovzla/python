@@ -2,9 +2,19 @@ El covid19_analysis, se refiera a un ejercicio basado en el artículo [Explorand
 
 En el ejercicio se analizan los casos diarios de **Covid-19** a nivel mundial y se realizan comparativas entre diferentes países latinoamericanos, mostrando las tendencias y curvas correspondientes. Los datos utilizados provienen del repositorio del [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
+Para acceder a los datos se debe clonar el repositorio de manera local:
+```$>git clone https://github.com/CSSEGISandData/COVID-19.git```
+
+Para actualizar el repositorio, debes hacer lo siguiente:
+```$>cd COVID-19
+   $>git pull origin master
+```
+
 Se utilizan las librerías:
 * **pandas** para el analisis de los datos.
-* **matplotlib.pyplot** y **seaborn** para representar en los gráficos el comportamiento de la enfermedad.
+  **datetime** para el manejo de las fechas.
+  **pathlib** para manejar las rutas de archivos csv en el sistema.
+* **matplotlib.pyplot** para representar en los gráficos el comportamiento de la enfermedad.
 
 
 ![Tabla de tasa de contagiados en Perú](https://mega.nz/file/SJ9UVIDb#vkwE53IrnxF52t9sm0Brlm5-oF7V0oTv3HjFH_KSopY)
