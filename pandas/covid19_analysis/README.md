@@ -21,10 +21,10 @@ Se utilizan las librerías:
 * **matplotlib.pyplot** para representar en los gráficos el comportamiento de la enfermedad.
 
 
- ![Tabla de tasa de contagiados en Perú](https://ibb.co/423LLh7)
+ ![Tabla de tasa de contagiados en Perú](https://i.ibb.co/gdh88k3/screencapture-localhost-8888-notebooks-myprojects-python-pandas-covid19-analysis-covid19-analysis-ipynb-1589838730972.png)
 
- ![Gráfico comparativo de número de contagiados en Colombia. Chile, Ecuador, Perú y Chile](https://ibb.co/q0j68rF)
+ ![Gráfico comparativo de número de contagiados en Colombia. Chile, Ecuador, Perú y Chile](https://i.ibb.co/bHmtVKR/casos-Covid18052020.png)
 
- ![Gráfico comparativo de tasa de contagios diarios en Colombia. Chile, Ecuador, Perú y Chile](https://ibb.co/nRq57J8)
+ ![Gráfico comparativo de tasa de contagios diarios en Colombia. Chile, Ecuador, Perú y Chile](https://i.ibb.co/3k5LpZY/tasa-infectados-covid18052020.png)
 
- ![Gráfico comparativo de muertes por Covid-19 en Colombia. Chile, Ecuador, Perú y Chile](https://ibb.co/gJLnk6k)
+ ![Gráfico comparativo de muertes por Covid-19 en Colombia. Chile, Ecuador, Perú y Chile](https://i.ibb.co/JHwhDCD/muertes-covid-18052020.png)
