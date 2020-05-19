@@ -14,11 +14,10 @@ Para actualizar el repositorio, debes hacer lo siguiente:
 
 ```
 
-
 Se utilizan las librerías:
 * **pandas** para el analisis de los datos.
-  **datetime** para el manejo de las fechas.
-  **pathlib** para manejar las rutas de archivos csv en el sistema.
+* **datetime** para el manejo de las fechas.
+* **pathlib** para manejar las rutas de archivos csv en el sistema.
 * **matplotlib.pyplot** para representar en los gráficos el comportamiento de la enfermedad.
 
 
