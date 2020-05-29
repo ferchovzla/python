@@ -6,7 +6,6 @@ import re
 
 # Regular expression for validating an Email 
 regex = '^[a-zA-Z0-9_+&*-]+(?:\\.[a-zA-Z0-9_+&*-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,7}$'
-# for custom mails use: '^[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w+$' 
 	
 # Function for validating an Email 
 def validate_email(email): 
